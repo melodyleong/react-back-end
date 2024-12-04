@@ -1,4 +1,4 @@
-create database ecommerce;
+
 
 USE ecommerce;
 
